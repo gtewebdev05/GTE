@@ -1,0 +1,11 @@
+body{
+    background-color: #e8bf65;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: ;
+
+}
+.navbar ul li {
+    list-style: none;   
+    float: right;
+}
